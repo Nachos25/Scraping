@@ -1,0 +1,175 @@
+[
+  {
+    "url": "https://help.zoho.com/portal/en/kb/crm",
+    "sections": [
+      {
+        "title": "Getting Started",
+        "link": "/portal/en/kb/crm/getting-started",
+        "description": "Getting Started",
+        "articles_count": "4 Articles"
+      },
+      {
+        "title": "Organization Settings",
+        "link": "/portal/en/kb/crm/organization-settings",
+        "description": "Organization Settings",
+        "articles_count": "24 Articles"
+      },
+      {
+        "title": "Security Control",
+        "link": "/portal/en/kb/crm/security-control",
+        "description": "Security Control",
+        "articles_count": "35 Articles"
+      },
+      {
+        "title": "Customize CRM Account",
+        "link": "/portal/en/kb/crm/customize-crm-account",
+        "description": "Customize CRM Account",
+        "articles_count": "71 Articles"
+      },
+      {
+        "title": "Data Administration",
+        "link": "/portal/en/kb/crm/data-administration",
+        "description": "Data Administration",
+        "articles_count": "30 Articles"
+      },
+      {
+        "title": "Connect with Customers",
+        "link": "/portal/en/kb/crm/connect-with-customers",
+        "description": "Connect with Customers",
+        "articles_count": "53 Articles"
+      },
+      {
+        "title": "Automate Business Processes",
+        "link": "/portal/en/kb/crm/automate-business-processes",
+        "description": "Automate Business Processes",
+        "articles_count": "24 Articles"
+      },
+      {
+        "title": "CPQ",
+        "link": "/portal/en/kb/crm/cpq",
+        "description": "CPQ",
+        "articles_count": "5 Articles"
+      },
+      {
+        "title": "Experience Center",
+        "link": "/portal/en/kb/crm/experience-center",
+        "description": "Experience Center",
+        "articles_count": "9 Articles"
+      },
+      {
+        "title": "Process Management",
+        "link": "/portal/en/kb/crm/process-management",
+        "description": "Process Management",
+        "articles_count": "27 Articles"
+      },
+      {
+        "title": "Manage CRM Data",
+        "link": "/portal/en/kb/crm/manage-crm-data",
+        "description": "Manage CRM Data",
+        "articles_count": "34 Articles"
+      },
+      {
+        "title": "Analytics and Dashboards",
+        "link": "/portal/en/kb/crm/analytics-and-dashboards",
+        "description": "Analytics and Dashboards",
+        "articles_count": "24 Articles"
+      },
+      {
+        "title": "Sales Force Automation",
+        "link": "/portal/en/kb/crm/sales-force-automation",
+        "description": "Sales Force Automation",
+        "articles_count": "27 Articles"
+      },
+      {
+        "title": "Collaborate and Increase Team Productivity",
+        "link": "/portal/en/kb/crm/collaborate-and-increase-team-productivity",
+        "description": "Collaborate and Increase Team Productivity",
+        "articles_count": "5 Articles"
+      },
+      {
+        "title": "Marketing Automation Tools",
+        "link": "/portal/en/kb/crm/marketing-automation-tools",
+        "description": "Marketing Automation Tools",
+        "articles_count": "6 Articles"
+      },
+      {
+        "title": "Zia - Artificial Intelligence",
+        "link": "/portal/en/kb/crm/zia-artificial-intelligence",
+        "description": "Zia - Artificial Intelligence",
+        "articles_count": "59 Articles"
+      },
+      {
+        "title": "Manage Inventory",
+        "link": "/portal/en/kb/crm/manage-inventory",
+        "description": "Manage Inventory",
+        "articles_count": "20 Articles"
+      },
+      {
+        "title": "Customer Support",
+        "link": "/portal/en/kb/crm/customer-support",
+        "description": "Customer Support",
+        "articles_count": "4 Articles"
+      },
+      {
+        "title": "CRM Mobile App",
+        "link": "/portal/en/kb/crm/crm-mobile",
+        "description": "CRM Mobile App",
+        "articles_count": "52 Articles"
+      },
+      {
+        "title": "Integrations",
+        "link": "/portal/en/kb/crm/integrations",
+        "description": "Integrations",
+        "articles_count": "77 Articles"
+      },
+      {
+        "title": "Extensions",
+        "link": "/portal/en/kb/crm/extensions",
+        "description": "Extensions",
+        "articles_count": "105 Articles"
+      },
+      {
+        "title": "FAQs",
+        "link": "/portal/en/kb/crm/faqs",
+        "description": "FAQs",
+        "articles_count": "94 Articles"
+      },
+      {
+        "title": "Use Cases",
+        "link": "/portal/en/kb/crm/use-cases",
+        "description": "Use Cases",
+        "articles_count": "23 Articles"
+      },
+      {
+        "title": "Help Videos",
+        "link": "/portal/en/kb/crm/help-videos",
+        "description": "Help Videos",
+        "articles_count": "40 Articles"
+      },
+      {
+        "title": "Troubleshooting",
+        "link": "/portal/en/kb/crm/troubleshooting-tips",
+        "description": "Troubleshooting",
+        "articles_count": "21 Articles"
+      },
+      {
+        "title": "SalesInbox",
+        "link": "/portal/en/kb/crm/salesinbox",
+        "description": "SalesInbox as a part of Email in Zoho CRM",
+        "articles_count": "5 Articles"
+      },
+      {
+        "title": "Kaizen Series | Zoho CRM Developers",
+        "link": "/portal/en/kb/crm/kaizen-series-zoho-crm-developers",
+        "description": "Welcome to the world of Zoho CRM Developers. Explore tips and best practices for the best Developer experience in CRM.",
+        "articles_count": "29 Articles"
+      },
+      {
+        "title": "Using CRM for Everyone",
+        "link": "/portal/en/kb/crm/using-crm-for-everyone",
+        "description": "Using CRM for Everyone",
+        "articles_count": "33 Articles"
+      }
+    ]
+  }
+]
